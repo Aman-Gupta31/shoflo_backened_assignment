@@ -1,4 +1,4 @@
- ;
+
 
 document.addEventListener('DOMContentLoaded', () => {
     const postIdInput = document.getElementById('postIdInput');
