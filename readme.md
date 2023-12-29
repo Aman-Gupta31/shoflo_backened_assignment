@@ -14,8 +14,8 @@ Welcome to the Social Media Analytics Microservice project! This microservice is
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Aman-Gupta31/socialmedia-analytics-app.git
-   cd socialmedia-analytics-app
+   git clone https://github.com/Aman-Gupta31/shoflo_backened_assignment.git
+   cd shoflo_backened_assignment
    ```
 
 2. **Install Dependencies:**
